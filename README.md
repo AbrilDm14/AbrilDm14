@@ -1,4 +1,4 @@
-**Hi, my name is Abril Domínguez and I'm a Data Analyst** 👋 
+## **Hi, my name is Abril Domínguez and I'm a Data Analyst** 👋 
 
 ![data_analyst_professional_linkedin](https://github.com/AbrilDm14/AbrilDm14/assets/130613750/fecc20ad-f8b6-4d58-be2f-847e576ad9a9)
 
