@@ -10,17 +10,25 @@ In 2023, I embarked on a quest to further specialize as a Professional Data Anal
 Project-wise, I am a detail-oriented, proactive and enjoy learning new things.  Outside of work, I love gaming, F1 racing and spending time with my loved ones. 
 
 
-# Technologies:
+### Technologies:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=101010)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860&labelColor=101010)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=101010)
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow)]()
+![MySQL](https://img.shields.io/badge/mysql-green?style=for-the-badge&logo=mysql&logoColor=white&labelColor=green)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%23316192.svg)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-pink.svg?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=pink)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0078d7.svg)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white&labelColor=4285F4)
+![Tableau](https://img.shields.io/badge/Tableau-aqua?style=for-the-badge&labelColor=aqua)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&labelColor=%23013243.svg)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&labelColor=%23150458.svg)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-purple?style=for-the-badge&logo=Matplotlib&logoColor=white&labelColor=101010)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=%23F05033.svg)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=D83B01)
+
+
+### Find me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-abril-dom%C3%ADnguez-montes-87112aa6/)
+
 
 
 
