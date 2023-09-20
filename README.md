@@ -27,7 +27,7 @@ Project-wise, I am a detail-oriented, proactive and enjoy learning new things.  
 
 
 ### Find me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-abril-dom%C3%ADnguez-montes-87112aa6/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-abril-dom%C3%ADnguez-montes/)
 
 
 
