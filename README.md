@@ -29,6 +29,7 @@ Project-wise, I am a detail-oriented, proactive and enjoy learning new things.  
 ### Find me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-abril-dom%C3%ADnguez-montes/)
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/aryll1493)
+[![Tableau](https://img.shields.io/badge/Tableau-orange?style=for-the-badge&labelColor=orange)](https://public.tableau.com/app/profile/abril.dom.nguez)
 
 
 
