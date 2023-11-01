@@ -10,7 +10,7 @@ In 2023, I embarked on a quest to further specialize as a Professional Data Anal
 Project-wise, I am a detail-oriented, proactive and enjoy learning new things.  Outside of work, I love gaming, F1 racing and spending time with my loved ones. 
 
 
-### Technologies:
+### Technologies: 
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow)]()
 ![MySQL](https://img.shields.io/badge/mysql-green?style=for-the-badge&logo=mysql&logoColor=white&labelColor=green)
